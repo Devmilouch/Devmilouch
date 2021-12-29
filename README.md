@@ -1,6 +1,6 @@
 Salut :grin: ! Je suis développeur web, spécialisé dans le JavaScript.
 
-J'adore l'algorithmique et créer des jeux vidéo. Dès lors que je m'intéresse à quelque chose, j'ai envie de creuser pour réellement comprendre son fonctionnement :wink: !
+J'adore l'algorithmique et créer des jeux vidéo. J'aime creuser pour réellement comprendre le fonctionnement des choses :wink: !
 
 <!---
 Devmilouch/Devmilouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
