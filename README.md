@@ -1,4 +1,4 @@
-Salut :grin: ! Je suis développeur web, spécialisé dans le JavaScript.
+Salut :grin: ! Je suis développeur web full stack, spécialisé dans le JavaScript.
 
 J'adore l'algorithmique et créer des jeux vidéo. J'aime creuser pour réellement comprendre le fonctionnement des choses :wink: !
 
