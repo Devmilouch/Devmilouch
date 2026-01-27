@@ -1,4 +1,10 @@
-Lead Développeur Fullstack JS avec 5+ ans d’expérience dans la conception et la gestion de projets techniques d’envergure. Spécialisé en React et NodeJS, j’exerce mon métier par passion: transformer des idées en solutions numériques durables à fort impact. Curieux et engagé, j’accompagne clients et équipes dans l’atteinte de leurs ambitions en relevant chaque challenge avec enthousiasme, rigueur et esprit d’innovation, en plaçant l’utilisateur au cœur.
+Senior Tech Lead Fullstack JavaScript orienté delivery & impact business.
+J’accompagne des organisations dans la conception, le cadrage et le
+déploiement de solutions techniques complexes avec de fortes contraintes
+métier, en garantissant la qualité, la scalabilité et la cohésion des équipes.
+Reconnu pour mon leadership technique, ma capacité à résoudre des situations
+floues, à prendre des décisions structurantes et à monter rapidement en
+compétence sur de nouveaux environnements.
 
 <!---
 Devmilouch/Devmilouch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
